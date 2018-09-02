@@ -1,0 +1,10 @@
+{
+"settings": {
+    "headless": false
+  },
+  "selectors": {
+    "seeTickets_button": "#modal-dialog > div > div.modal-dialog.modal-dialog--center.modal-dialog-ccp-v2.landing-modal__modal > div.modal-dialog__content.modal-dialog__content--fullscreen > div > div.landing-modal-footer > button.button-aux.modal-dialog__button.landing-modal-footer__see-tickets-button",
+	"firstRow_Link":"#quickpicks-listings > ul > li:nth-child(7)",
+	"getTickets_button":"#offer-card-buy-button"
+  }
+}
